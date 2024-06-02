@@ -7,6 +7,10 @@ This repository contains an SQL project for analyzing pizza sales trends. The pr
 
 ## Datasets
 The datasets used in this project were downloaded from another GitHub account.
+
+### Original Source:
+The dataset was originally obtained from (https://github.com/Ayushi0214/pizza-sales---SQL/blob/main/pizza_sales.zip)
+
 The datasets include:
 - `pizzas.xlsx`: pizza_id, pizza_type_id, size, price
 - `pizza_type.xlsx`: pizza_type_id, name, category
